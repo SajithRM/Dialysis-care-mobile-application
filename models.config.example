@@ -1,0 +1,9 @@
+model_config_list {
+ config {
+    name: 'Foodes_model'
+    base_path: '/workspace/local-files/projects/Foodes_model/food'
+    model_platform: 'tensorflow'
+    model_version_policy: {all: {}}
+        }
+}
+
